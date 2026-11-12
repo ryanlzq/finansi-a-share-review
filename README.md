@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/LINZIQI24GITHUB/finansi-a-share-review.git
+git clone https://github.com/ryanlzq/finansi-a-share-review.git
 ```
 
 放到 Agent 的 skills 目录：
